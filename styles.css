@@ -128,3 +128,11 @@ hr {
     color: #FF9B71;
     border-bottom: #FF9B71;
 }
+
+.Github {
+    color: rgb(117, 148, 241);
+    border-bottom: #6d7aa0;
+}
+.Github:hover {
+    color: #a0b0e2;
+}
